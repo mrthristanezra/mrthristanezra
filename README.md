@@ -1,4 +1,4 @@
-👋 Hey, I'm Mr. Thristan Ezra. A Programmer and Game Dev.
+Hey, I'm Mr. Thristan Ezra. A Programmer and Game Dev.
 
 I've been obsessed with programming since 2020. And now I'm trying to success myself for becoming a perfect code creator.
 
