@@ -7,9 +7,7 @@ I've been obsessed with programming since 2020. And now I'm trying to success my
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mrthristanezra.pleziergames)
 
 #### My stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrthristanezra&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <!---
 mrthristanezra/mrthristanezra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
