@@ -1,7 +1,6 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=F76C6C&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Thristan+Ezra;Programmer+%7C+Game+Dev+%7C+AI+Toymaker;Welcome+to+my+GitHub+Universe!+🚀" alt="Typing SVG" />
-</p>
+
+<h1>Hey there, Welcome to my Github Profile! 👋</h1>
 
 ---
 
@@ -9,9 +8,9 @@
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="320" />
 </p>
 
-## 👋 About Me
+## About Me
 
-I'm **Thristan Ezra** – a passionate programmer, game developer, and AI tinkerer. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
+I'm **Mr. Thristan Ezra**, a passionate programmer, game developer, and AI tinkerer. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
 
 - 💻 **Languages:** Python, JavaScript, Lua, C#
 - 🎮 **Platforms:** Roblox, Unity, Web, AI playgrounds
