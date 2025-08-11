@@ -1,16 +1,8 @@
 <!-- Profile Header -->
 
-<h1>Hey there, Welcome to my Github Profile! 👋</h1>
-
----
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/NMPvwSbA4ioAAAAC/chill-zen.gif" width="320"/>
-</p>
-
 ## 👋 About Me
 
-I'm **Mr. Thristan Ezra**, a Programmer and Game Developer. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
+Hello! I'm **Mr. Thristan Ezra**, a Programmer and Game Developer. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
 
 - 💻 **Languages:** Python, JavaScript, Lua, C++, HTML
 - 🎮 **Platforms:** Roblox, Web
