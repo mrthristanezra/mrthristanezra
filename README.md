@@ -33,7 +33,7 @@ I'm **Mr. Thristan Ezra**, a passionate programmer, game developer, and AI tinke
 
 <p align="center">
   <a href="https://x.com/@mrthristanezra_"><img alt="X/Twitter Follow" src="https://img.shields.io/twitter/follow/mrthristanezra_"></a>
-  <a href="https://mastodon.social/@mrthristanezra"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/@mrthristanezra@mastodon.social"></a>
+  <a href="https://mastodon.social/@mrthristanezra"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon.social/follow/@mrthristanezra@mastodon.social"></a>
 </p>
 
 ---
