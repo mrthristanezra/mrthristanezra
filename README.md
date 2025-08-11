@@ -32,9 +32,8 @@ I'm **Mr. Thristan Ezra**, a passionate programmer, game developer, and AI tinke
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/thristanezra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://discord.com/users/444444444444"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:thristanezra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/mrthristanezra_"><img alt="X/Twitter Follow" src="https://img.shields.io/twitter/follow/:user"></a>
+  <a href="https://mastodon.social/@mrthristanezra"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/:id"></a>
 </p>
 
 ---
