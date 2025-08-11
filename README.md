@@ -1,21 +1,70 @@
-Hey, I'm Mr. Thristan Ezra. A Programmer and Game Dev.
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=F76C6C&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Thristan+Ezra;Programmer+%7C+Game+Dev+%7C+AI+Toymaker;Welcome+to+my+GitHub+Universe!+🚀" alt="Typing SVG" />
+</p>
 
-I've been obsessed with programming since 2020. And now I'm trying to success myself for becoming a perfect code creator.
+---
 
-#### What do I work for:
-- Github
-- Roblox
-- Anything else... I love making toys with AI.
-- Other things are also Math and Physics
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="320" />
+</p>
 
-## How many visitors do I have in my website:
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mrthristanezra.pleziergames)
+## 👋 About Me
 
-#### My stats
+I'm **Thristan Ezra** – a passionate programmer, game developer, and AI tinkerer. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
+
+- 💻 **Languages:** Python, JavaScript, Lua, C#
+- 🎮 **Platforms:** Roblox, Unity, Web, AI playgrounds
+- ⚡ **Interests:** Math, Physics, AI, making toys and tools
+- 🧩 **Always building:** Games, bots, utilities, experiments
+
+---
+
+## 🚀 Featured Projects
+
+| Project                  | Description                         | Link                         |
+|--------------------------|-------------------------------------|------------------------------|
+| **PlezierGames**         | Fun games & experiments             | [Website](https://pleziergames.com) |
+| **Roblox Creations**     | Unique Roblox experiences           | [Roblox Profile](https://www.roblox.com/users/1867265111/profile) |
+| **AI Creations, Toys & Bots**       | Playing with artificial intelligence| [See Repos](https://github.com/mrthristanezra?tab=repositories) |
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/thristanezra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://discord.com/users/444444444444"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:thristanezra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 🏆 My GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrthristanezra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrthristanezra&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrthristanezra&theme=radical" alt="Profile Details" />
+</p>
 
+---
 
+## 📈 Website Visitor Count
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrthristanezra.pleziergames" alt="Visitor Count" />
+</p>
+
+---
+
+## 🎯 Fun Facts
+
+- I love building and breaking things just to learn how they work.
+- Math and Physics are my playgrounds for creative ideas.
+- I believe AI is the future, and I'm already making toys with it!
+
+---
 
 <!---
 mrthristanezra/mrthristanezra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
