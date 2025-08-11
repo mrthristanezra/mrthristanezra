@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 
-## 👋 About Me
+### 👋 About Me
 
 Hello! I'm **Mr. Thristan Ezra**, a Programmer and Game Developer. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
 
@@ -11,7 +11,7 @@ Hello! I'm **Mr. Thristan Ezra**, a Programmer and Game Developer. Since 2020, I
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project                  | Description                         |
 |--------------------------|-------------------------------------|
@@ -22,7 +22,7 @@ Hello! I'm **Mr. Thristan Ezra**, a Programmer and Game Developer. Since 2020, I
 
 ---
 
-## 🏆 My GitHub Stats
+### 🏆 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrthristanezra&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -32,7 +32,7 @@ Hello! I'm **Mr. Thristan Ezra**, a Programmer and Game Developer. Since 2020, I
 
 ---
 
-## 📈 Website Visitor Count
+### 📈 Website Visitor Count
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mrthristanezra.pleziergames" alt="Visitor Count" />
@@ -40,7 +40,7 @@ Hello! I'm **Mr. Thristan Ezra**, a Programmer and Game Developer. Since 2020, I
 
 ---
 
-## 🎯 Fun Facts
+### 🎯 Fun Facts
 
 - I love building and breaking things just to learn how they work.
 - Math and Physics are my playgrounds for creative ideas.
