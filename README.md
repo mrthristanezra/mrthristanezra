@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/view/pengu-pudgy-penguin-pudgypenguins-phone-gif-2245553620253111296" width="320"/>
+  <img src="https://media1.tenor.com/m/NMPvwSbA4ioAAAAC/chill-zen.gif" width="320"/>
 </p>
 
 ## About Me
