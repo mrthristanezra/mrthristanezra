@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif](https://tenor.com/view/pengu-pudgy-penguin-pudgypenguins-phone-gif-2245553620253111296)" width="320"/>
+  <img src="https://tenor.com/view/pengu-pudgy-penguin-pudgypenguins-phone-gif-2245553620253111296" width="320"/>
 </p>
 
 ## About Me
