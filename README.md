@@ -23,7 +23,7 @@ I'm **Mr. Thristan Ezra**, a passionate programmer, game developer, and AI tinke
 
 | Project                  | Description                         | Link                         |
 |--------------------------|-------------------------------------|------------------------------|
-| **PlezierGames**         | Fun games & experiments             | [Website](https://pleziergames.com) |
+| **PlezierGames**         | Fun games & experiments             | [Website](https://mrthristanezra.github.io/pleziergames) |
 | **Roblox Creations**     | Unique Roblox experiences           | [Roblox Profile](https://www.roblox.com/users/1867265111/profile) |
 | **AI Creations, Toys & Bots**       | Playing with artificial intelligence| [See Repos](https://github.com/mrthristanezra?tab=repositories) |
 
