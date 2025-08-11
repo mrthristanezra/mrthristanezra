@@ -8,14 +8,14 @@
   <img src="https://media1.tenor.com/m/NMPvwSbA4ioAAAAC/chill-zen.gif" width="320"/>
 </p>
 
-## About Me
+## 👋 About Me
 
-I'm **Mr. Thristan Ezra**, a passionate programmer, game developer, and AI tinkerer. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
+I'm **Mr. Thristan Ezra**, a Programmer and Game Developer. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
 
-- 💻 **Languages:** Python, JavaScript, Lua, C#
-- 🎮 **Platforms:** Roblox, Unity, Web, AI playgrounds
+- 💻 **Languages:** Python, JavaScript, Lua, C++, HTML
+- 🎮 **Platforms:** Roblox, Web
 - ⚡ **Interests:** Math, Physics, AI, making toys and tools
-- 🧩 **Always building:** Games, bots, utilities, experiments
+- 🧩 **Always building:** Games, toys, utilities, experiments
 
 ---
 
@@ -23,18 +23,10 @@ I'm **Mr. Thristan Ezra**, a passionate programmer, game developer, and AI tinke
 
 | Project                  | Description                         | Link                         |
 |--------------------------|-------------------------------------|------------------------------|
-| **PlezierGames**         | Fun games & experiments             | [Website](https://mrthristanezra.github.io/pleziergames) |
-| **Roblox Creations**     | Unique Roblox experiences           | [Roblox Profile](https://www.roblox.com/users/1867265111/profile) |
-| **AI Creations, Toys & Bots**       | Playing with artificial intelligence| [See Repos](https://github.com/mrthristanezra?tab=repositories) |
+| **PlezierGames**         | Fun games & experiments             | [Website](https://pleziergames.com) |
+| **Roblox Creations**     | Unique Roblox experiences           | [Roblox Profile](https://www.roblox.com/users/2897267726/profile) |
+| **AI Toys & Bots**       | Playing with artificial intelligence| [See Repos](https://github.com/mrthristanezra?tab=repositories) |
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://x.com/@mrthristanezra_"><img alt="X/Twitter Follow" src="https://img.shields.io/twitter/follow/mrthristanezra_"></a>
-  <a href="https://mastodon.social/@mrthristanezra"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon.social/follow/@mrthristanezra@mastodon.social"></a>
-</p>
 
 ---
 
@@ -62,7 +54,13 @@ I'm **Mr. Thristan Ezra**, a passionate programmer, game developer, and AI tinke
 - Math and Physics are my playgrounds for creative ideas.
 - I believe AI is the future, and I'm already making toys with it!
 
----
+<br>
+
+<p align="center">
+  <a href="https://mrthristanezra.tumblr.com"><img src="https://img.shields.io/badge/Tumblr-051E70?style=for-the-badge&logo=Tumblr&logoColor=white"></a>
+  <a href="https://x.com/thristanezra"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://mastodon.social/@mrthristanezra"><img src="https://img.shields.io/badge/Mastodon-9116E9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
+</p>
 
 <!---
 mrthristanezra/mrthristanezra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
