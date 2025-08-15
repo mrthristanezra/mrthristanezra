@@ -2,7 +2,7 @@
 
 ### 👋 About Me
 
-Hello! I'm **Mr. Thristan Ezra**, a Programmer and Game Developer. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
+Hello! I'm **Mr. Thristan Ezra**, a Programmer and Game Developer who likes to learn math and physics. Since 2020, I've been on a relentless journey to craft perfect code, make cool games, and turn wild ideas into reality.
 
 - 💻 **Languages:** Python, JavaScript, TypeScript, Lua, C++, HTML
 - 🎮 **Platforms:** Roblox, Web
