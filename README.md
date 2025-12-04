@@ -50,7 +50,6 @@ Hiya! I'm **Mr. Thristan Ezra**, a Programmer and Game Developer who likes to le
 <br>
 
 <p align="center">
-  <a href="https://mrthristanezra.tumblr.com"><img src="https://img.shields.io/badge/Tumblr-051E70?style=for-the-badge&logo=Tumblr&logoColor=white"></a>
   <a href="https://twitch.tv/MrThristanEzra"><img src="https://img.shields.io/badge/Twitch-B800FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://x.com/thriscode_dev"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://mastodon.social/@mrthristanezra"><img src="https://img.shields.io/badge/Mastodon-9116E9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
